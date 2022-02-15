@@ -1,1 +1,2 @@
 define level minimum
+define required [ DateTimeOriginal ]
