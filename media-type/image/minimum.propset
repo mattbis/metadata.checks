@@ -1,2 +1,3 @@
 define level minimum
 define required [ DateTimeOriginal ]
+define required [ ISOSpeedRating ]
